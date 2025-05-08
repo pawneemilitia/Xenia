@@ -3,7 +3,9 @@
 Xenia is an emulation of the Waldorf Microwave XT for MacOS by The Usual Suspects.
 
 -ROM
+
 -Manual
+
 -A few Factory Banks from Waldorf.
 
 Home Website:
