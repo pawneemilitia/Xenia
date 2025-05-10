@@ -1,8 +1,6 @@
 # Xenia 1.4.4 MacOS
 
-<ins>Xenia</ins> 
-
-is an emulation of the Waldorf Microwave XT for MacOS by The Usual Suspects.
+Xenia is an emulation of the Waldorf Microwave XT for MacOS by The Usual Suspects.
 
 ![microwave-xenia-5-1536x906](https://github.com/user-attachments/assets/80eb4509-da18-40f5-8560-04b803f0bc7a)
 
@@ -12,9 +10,9 @@ is an emulation of the Waldorf Microwave XT for MacOS by The Usual Suspects.
 
 - A few Presets and Factory Sound Banks from Waldorf.
 
-Installation
+<ins>Installation</ins>
 
-- Extract Archive7z files in Plugins with Keka https://github.com/aonez/Keka
+- Extract Archive7z files in Plugins with [Keka](https://github.com/aonez/Keka)
 
 - Place the unzipped/unpackaged plugin files into your appropriate plugin folder(s) used by your DAW(s).
 
