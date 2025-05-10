@@ -10,7 +10,7 @@ Xenia is an emulation of the Waldorf Microwave XT for MacOS by The Usual Suspect
 
 - A few Presets and Factory Sound Banks from Waldorf.
 
-<ins>Installation</ins>
+_<ins>Installation</ins>_
 
 - Extract Archive7z files in Plugins with [Keka](https://github.com/aonez/Keka)
 
