@@ -1,6 +1,6 @@
 # Xenia 1.4.4 MacOS
 
-<ins>underlined</ins> Xenia 
+<ins>Xenia</ins> 
 
 is an emulation of the Waldorf Microwave XT for MacOS by The Usual Suspects.
 
